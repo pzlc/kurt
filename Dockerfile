@@ -11,5 +11,6 @@ RUN apk add \
   gettext \
   git \
   g++ \
-  tar
+  tar \
+  make
 
